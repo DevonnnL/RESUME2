@@ -1,0 +1,10 @@
+body {
+	background:lightseagreen;
+}
+
+h2,h3,h1{font-family: "Sofadi One", system-ui;}
+
+
+ol.d {
+  list-style-type: lower-alpha;
+}/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
